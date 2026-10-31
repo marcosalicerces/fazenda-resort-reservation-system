@@ -1,0 +1,15 @@
+
+# Local database credentials
+/conexao.php
+
+# Environment configuration
+.env
+.env.*
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
